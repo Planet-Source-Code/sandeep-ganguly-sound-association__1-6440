@@ -1,0 +1,21 @@
+ÿÞThe idea here is to create registry entries that will
+allow you to assign different sound events for different
+program files. Here are the sequential steps.
+
+1. "Browse" to select the desired .exe file. Say VB6.EXE
+2. "Give it a friendly name in the "Application Name" text box. 
+     Say 'Visual Basic 6'. This is the name that will appear in the
+     "Sound Properties" Dialog box of the Control Panel.	
+ 3. Now check the checkboxes that you require. Eg. if
+     you check the 'Open' check box you will be allowed 
+     to enter the sound that will be played when the prog file
+    is first opened. Similarly you can check the other boxes.
+4. Click "Add".
+5. Finally open the Control Panel -> Sounds and configure.
+
+We are using the Cntrol Panel -> Sound instead of programming
+direct to keep things simple and also allow you to save different schemes.
+
+6. Press Clear to clear all the check marks (before proceeding with the next .exe file)
+
+Good bye and good luck!
